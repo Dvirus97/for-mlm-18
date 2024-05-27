@@ -1,0 +1,12 @@
+there is little problem with ngrx package.
+
+משו לגבי זה שאנגולר ב 18 אבל החבילה ב 17
+
+זה עדיין עובד אבל צריך להתקין עם דגל 
+
+--legacy-peer-deps 
+
+for example: 
+npm i @ngrx/store --legacy-peer-deps
+
+אפשר לקרא הסבר על זה באינטרנט 
